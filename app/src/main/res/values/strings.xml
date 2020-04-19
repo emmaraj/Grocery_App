@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Grocery List App</string>
+    <string name="grocery">Grocery</string>
+    <string name="grocery_amount">Grocery Amount</string>
+    <string name="btn_add_to_list">Add to List</string>
+    <string name="checkout">Checkout</string>
+    <string name="order_total">Order Total</string>
+    <string name="zero_value">0</string>
+    <string name="shipping">Shipping</string>
+    <string name="total_items">Items Total</string>
+    <string name="name_user">MBAYA Emmanuel</string>
+    <string name="user_email">emmanuelbaldwin@gmail.com</string>
+    <string name="user_address">Maiduguri, Borno State. NGN</string>
+    <string name="user_profile_picture">User Profile Picture</string>
+    <string name="welcome_to_b_t_stores"><![CDATA[Welcome to B&T Stores]]></string>
+</resources>
